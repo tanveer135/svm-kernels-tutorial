@@ -48,7 +48,7 @@ svm-kernels-tutorial.ipynb
 **Clone this repository** to your local machine:
    ```bash
    git clone https://github.com/tanveer135/svm-kernels-tutorial.git
-
+```
 
 License:
 This repository is licensed under the MIT License. You are free to use, modify, and distribute this work with appropriate attribution.
