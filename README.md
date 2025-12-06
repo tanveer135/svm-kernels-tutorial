@@ -20,6 +20,7 @@ The **Iris dataset** is used for this tutorial, which contains:
 - Perfect for visualizing SVM kernels in action
 
 ---
+## Run the Jupyter notebook to see the code and output in action:
 
 ## **Tutorial Workflow:**
 1. **Import Libraries and Setup**: Import necessary Python libraries and set up the environment.
@@ -40,12 +41,13 @@ The **Iris dataset** is used for this tutorial, which contains:
 - **Grid Search**: Automatically find optimal hyperparameters using Grid Search and cross-validation.
   
 ---
+## Run the Jupyter notebook to see the code and output in action:
+svm-kernels-tutorial.ipynb
 
 ## **How to Use This Repository:**
-
-1. **Clone this repository** to your local machine:
+**Clone this repository** to your local machine:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/tanveer135/svm-kernels-tutorial.git
 
 
 License:
